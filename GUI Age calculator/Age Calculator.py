@@ -14,7 +14,7 @@ root.geometry("700x500")
 root.title("Age Calculator")
 
 # loading image
-photo = PhotoImage(file="./image.jpg")
+photo = PhotoImage(file="File Path")
 
 # creating a Label widget to show the image we load
 myimage = Label(image=photo)
