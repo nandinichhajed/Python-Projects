@@ -57,17 +57,17 @@ pip install -r requirements.txt
 **5. GUI Age calculator**
 * Let's calculate your age waith a **[GUI Age calculator](https://github.com/nandinichhajed/Python-Projects/tree/main/GUI%20Age%20calculator)**
 
-<!-- ![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/calculator.png) -->
+![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/Age%20calc.png)
 
 **6. GUI Color Guessing Game**
 * Test your brain & concentration power waith a **[GUI Color Guessing Game](https://github.com/nandinichhajed/Python-Projects/tree/main/GUI%20Color%20Guessing%20Game)**
 
-<!-- ![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/colour%20game.png) -->
+![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/colour%20game.png)
 
 **7. GUI Scientific Calculator**
 * **[GUI Scientific Calculator](https://github.com/nandinichhajed/Python-Projects/tree/main/GUI%20Scientific%20Calculator)**
 
-<!-- ![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/Age%20calc.png) -->
+![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/calculator.png)
 
 **8. Image Editing**
 * Essential **[Image Editing](https://github.com/nandinichhajed/Python-Projects/tree/main/Image%20Editing")** the project inclide
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 **9. PIE Chart**
 * Create a **[PIE Chart](https://github.com/nandinichhajed/Python-Projects/tree/main/PIE%20Chart")** to make your data more authentic and clear
 
-<!-- ![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/Age%20calc.png) -->
+![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/piechart.png)
 
 **10. Screen Recording**
 * Stop downloading heavy apps for **[Screen Recording](https://github.com/nandinichhajed/Python-Projects/tree/main/Screen%20Recording)** just try it with you fun coding
