@@ -1,4 +1,5 @@
-# more modified version we have written the main content in the html file and we and customixe names accourding to our need
+# more modified version we have written the main content in the html 
+# file and we and customize names accourding to our need
 
 import smtplib
 from email.message import EmailMessage
