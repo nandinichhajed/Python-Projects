@@ -1,12 +1,12 @@
 import tkinter
 import random
 # list of possible colours
-colours = ['red', 'blue', 'green', 'pink', 'black',
-           'purple', 'white', 'orange', 'yellow', 'brown']
+colours = ['Red', 'Blue', 'Green', 'Pink', 'Black',
+           'Purple', 'White', 'Orange', 'Yellow', 'Brown']
 score = 0
 
 # the game time lweft initallyn 30 seconds
-timeleft = 30
+timeleft = 30 
 
 #  function to start game
 
@@ -48,7 +48,7 @@ def countdown():
         # decrement the timer
         timeleft -= 1
         # update the time left label.
-        timeLabel.config(text='Time Left: ' + str(timeleft))
+        timeLabel.config(text='Time Left: '+ str(timeleft))
         # run the function again after 1 second.
         timeLabel.after(1000, countdown)
 
@@ -60,28 +60,28 @@ root = tkinter.Tk()
 root.title('Colour Game')
 
 # Set the size
-root.geometry('800x400')
+root.geometry('600x400')
 
 # add an instruction lable
 instructions = tkinter.Label(
-    root, text='Type in the Colour of the Words, and not the Word Text!', font=('Times New Roman', 24))
+    root, text='Type in the colour of the words you see', font=('Roboto', 20))
 instructions.pack()
-
-# add a score lable
-scoreLabel = tkinter.Label(
-    root, text='Press Enter To Start:', font=('Times New Roman', 24))
-scoreLabel.pack()
 
 # add a timeleft lable
 # timeLabel = tkinter.Label(root, text='Time left:' +
 #                           str(timeleft), font=('Times New Roman', 24))
 
 timeLabel = tkinter.Label(
-    root, text=f'Total Time: {timeleft} seconds', font=('Times New Roman', 24))
+    root, text=f'Total Time: {timeleft} seconds', font=('Roboto', 18))
 timeLabel.pack()
 
+# add a score lable
+scoreLabel = tkinter.Label(
+    root, text='Press Enter To Start:', font=('Roboto', 18))
+scoreLabel.pack()
+
 # add a lable for displaying the colours
-label = tkinter.Label(root, font=('Times New Roman', 20))
+label = tkinter.Label(root, font=('Roboto', 20))
 label.pack()
 
 # add the text enter box for displaying the colours

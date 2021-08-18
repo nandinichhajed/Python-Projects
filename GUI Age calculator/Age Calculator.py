@@ -14,7 +14,7 @@ root.geometry("700x500")
 root.title("Age Calculator")
 
 # loading image
-photo = PhotoImage(file="File Path")
+photo = PhotoImage(file="File path")
 
 # creating a Label widget to show the image we load
 myimage = Label(image=photo)
@@ -29,15 +29,18 @@ myimage.grid(row=0, column=1)
 def calculateAge():
     # storing today's date in "today" variable
     today = date.today()
+
     # getting birthdate using .get() method
     birthDate = date(int(yearEntry.get()), int(
         monthEntry.get()), int(dayEntry.get()))
+
     # calculating age by subtracting birthdate from today's date
     age = today.year - birthDate.year - \
         ((today.month, today.day) < (birthDate.month, birthDate.day))
+        
     # creating a Label widget to show the calculated age using
     # grid method
-    Label(text=f"{nameValue.get()} your age is {age}").grid(row=6, column=1)
+    Label(text=f"{nameValue.get()} your age is {age}", font=("Roboto Slab", 11)).grid(row=6, column=1)
 
 
 # creating a label widget for asking user his/her name
@@ -88,8 +91,8 @@ dayEntry.grid(row=4, column=1, pady=10)
 
 # creating and placing a button to calculate a show age on
 # clicking on this button
-Button(text="Calculate age", command=calculateAge).grid(
-    row=5, column=1, pady=10)
+Button(text="Calculate age", command=calculateAge, height = 2, 
+          width = 12).grid(row=5, column=1, pady=10)
 
 # mainloop() is an infinite loop used to run the application when
 # it's in ready state
