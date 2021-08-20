@@ -62,7 +62,7 @@ pip install -r requirements.txt
 **6. GUI Color Guessing Game**
 * Test your brain & concentration power waith a **[GUI Color Guessing Game](https://github.com/nandinichhajed/Python-Projects/tree/main/GUI%20Color%20Guessing%20Game)**
 
-![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/output.gif)
+![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/colour%20game.png)
 
 **7. GUI Scientific Calculator**
 * **[GUI Scientific Calculator](https://github.com/nandinichhajed/Python-Projects/tree/main/GUI%20Scientific%20Calculator)**
@@ -88,7 +88,7 @@ pip install -r requirements.txt
 **10. Screen Recording**
 * Stop downloading heavy apps for **[Screen Recording](https://github.com/nandinichhajed/Python-Projects/tree/main/Screen%20Recording)** just try it with you fun coding
 
-![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/Age%20calc.png)
+![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/scrrec.gif)
 
 **11. Send Email**
 * Sick & tired of writing boring emails just write your code and **[Send Email](https://github.com/nandinichhajed/Python-Projects/tree/main/Send%20Email)**
@@ -99,15 +99,15 @@ pip install -r requirements.txt
 **12. Send SMS**
 * **[Send SMS](https://github.com/nandinichhajed/Python-Projects/tree/main/Send%20SMS)** to your faviourite one's with your twilio's phone number.
 
-**13. Translator**
+**13. Track location of a mobile phone**
+* Track Essential details of a mobile sim card via **[Track location of a mobile phone](https://github.com/nandinichhajed/Python-Projects/tree/main/track%20location%20of%20a%20mobile%20phone)**.
+
+**14. Translator**
 * Translate your text in your faviourite language with **[Translator](https://github.com/nandinichhajed/Python-Projects/tree/main/Translator)**
 
   *  **[Translator](https://github.com/nandinichhajed/Python-Projects/blob/main/Translator/Translator.py)**
   *  **[Text to Audio](https://github.com/nandinichhajed/Python-Projects/blob/main/Translator/Text%20to%20Audio.py)**
   *  **[Translate in new txt file](https://github.com/nandinichhajed/Python-Projects/blob/main/Translator/Translate%20in%20new%20txt%20file.py)**
-
-**14. Track location of a mobile phone**
-* Track Essential details of a mobile sim card via **[Track location of a mobile phone](https://github.com/nandinichhajed/Python-Projects/tree/main/track%20location%20of%20a%20mobile%20phone)**.
 
 **15. Youtube downloader**
 * Download Youtube viedos in your faviourite fromat via **[Youtube downloader](https://github.com/nandinichhajed/Python-Projects/tree/main/youtube%20downloader)**.
