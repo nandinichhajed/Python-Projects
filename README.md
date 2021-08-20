@@ -62,7 +62,7 @@ pip install -r requirements.txt
 **6. GUI Color Guessing Game**
 * Test your brain & concentration power waith a **[GUI Color Guessing Game](https://github.com/nandinichhajed/Python-Projects/tree/main/GUI%20Color%20Guessing%20Game)**
 
-![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/colour%20game.png)
+![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/output.gif)
 
 **7. GUI Scientific Calculator**
 * **[GUI Scientific Calculator](https://github.com/nandinichhajed/Python-Projects/tree/main/GUI%20Scientific%20Calculator)**
@@ -88,7 +88,7 @@ pip install -r requirements.txt
 **10. Screen Recording**
 * Stop downloading heavy apps for **[Screen Recording](https://github.com/nandinichhajed/Python-Projects/tree/main/Screen%20Recording)** just try it with you fun coding
 
-<!-- ![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/Age%20calc.png) -->
+![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/Age%20calc.png)
 
 **11. Send Email**
 * Sick & tired of writing boring emails just write your code and **[Send Email](https://github.com/nandinichhajed/Python-Projects/tree/main/Send%20Email)**
