@@ -1,5 +1,4 @@
 # Track Location via phonenumbers
-# Basic Details
 
 import phonenumbers
 from phonenumbers import geocoder
