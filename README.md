@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/piechart.png)
 
 **10. Screen Recording**
-* Stop downloading heavy apps for **[Screen Recording](https://github.com/nandinichhajed/Python-Projects/tree/main/Screen%20Recording)** just try it with you fun coding
+* Stop downloading heavy apps for **[Screen Recording](https://github.com/nandinichhajed/Python-Projects/tree/main/Screen%20Recording)** just try it with your codes.
 
 ![App Screenshot](https://github.com/nandinichhajed/Python-Projects/blob/main/.Images/scrrec.gif)
 
