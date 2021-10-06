@@ -73,6 +73,7 @@ pip install -r requirements.txt
 * Essential **[Image Editing](https://github.com/nandinichhajed/Python-Projects/tree/main/Image%20Editing")** the project inclide
 
   *  **[Gray scale](https://github.com/nandinichhajed/Python-Projects/tree/main/Image%20Editing/Gray%20scale)**
+  *  **[Image to sketch](https://github.com/nandinichhajed/Python-Projects/blob/main/Image%20Editing/Image%20to%20sketch/image%20to%20sketch.py)**
   *  **[JPG to PNG Converter](https://github.com/nandinichhajed/Python-Projects/tree/main/Image%20Editing/JPG%20to%20PNG%20Converter)**
   *  **[croping img](https://github.com/nandinichhajed/Python-Projects/tree/main/Image%20Editing/cropped)**
   *  **[image details](https://github.com/nandinichhajed/Python-Projects/tree/main/Image%20Editing/image%20details)**
